@@ -76,7 +76,6 @@ version used - "react-router-dom": "^5.2.0",
   - Allowed Callback URLs
   - Allowed Logout URLs
   - Allowed Web Origins
-  - SAVE CHANGES!!!!!!!!!!!!!!!
 
 - Connections
   email,social
